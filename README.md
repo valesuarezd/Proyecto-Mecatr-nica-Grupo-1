@@ -6,6 +6,7 @@ Este repositorio reúne todos los archivos necesarios para replicar el robot aut
 │
 ├── README.md
 ├── /Modelos_3D/
+│ ├── carcasa_y_componentes.stl
 │ └── carcasa_final.stl
 │
 ├── /Esquematicos/
@@ -20,8 +21,7 @@ Este repositorio reúne todos los archivos necesarios para replicar el robot aut
 │ └── puesta_en_marcha.md
 │
 ├── /Listas_de_Materiales/
-│ ├── lista_componentes.xlsx
-│ └── BOM_robot.pdf
+│ └── lista_componentes.xlsx
 │
 └── /Codigo/
 ├── control_PID.ino
