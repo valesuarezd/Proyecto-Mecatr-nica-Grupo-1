@@ -6,9 +6,7 @@ Este repositorio reúne todos los archivos necesarios para replicar el robot aut
 │
 ├── README.md
 ├── /Modelos_3D/
-│ ├── carcasa.stl
-│ ├── soporte_motor.stl
-│ ├── base_robot.stl
+│ └── carcasa_final.stl
 │
 ├── /Esquematicos/
 │ ├── conexion_arduino_pcb.png
